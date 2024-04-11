@@ -22,7 +22,6 @@
 
 ### Configuration ⚙️
 
-- **Database Connection**: Configure your database connection string in `appsettings.json`.
 - **FluentValidation Rules**: Customize validation rules in the respective validator classes.
 
 ### Contributions 🤝
